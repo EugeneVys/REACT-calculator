@@ -1,4 +1,4 @@
-Simple React calculator
+### Simple React calculator
 
 ### `npm start`
 
